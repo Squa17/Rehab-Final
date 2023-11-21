@@ -11,6 +11,6 @@ FROM openjdk:17-jdk-slim
  
 EXPOSE 8080
 
-COPY --from=build Rehab-0.0.1-SNAPSHOT.jar appRehad.jar
+COPY --from=build /target/Rehab-0.0.1-SNAPSHOT.jar appRehad.jar
 
 ENTRYPOINT [ "java", "-jar", "appRehad.jar" ]
