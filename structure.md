@@ -1,5 +1,5 @@
-[MIT](https://choosealicense.com/licenses/mit/)
-# Estrutura do projeto
+
+# Estrutura do projeto [![licence mit](https://img.shields.io/badge/licence-MIT-blue.svg)](./LICENSE)
 
 Essa documentação tem o objetivo de registrar:
 
