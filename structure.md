@@ -31,6 +31,16 @@ Entre no diretório do projeto
   cd my-project
 ```
 
+## Arquivos
+
+* `./Models `
+* `./Config `
+* `./Controller `
+* `./DTO `
+* `./Entities `
+* `./Repository`
+* `./Service `
+* `./ServiceImpl `
 
 
 ## Stacks utilizadas
