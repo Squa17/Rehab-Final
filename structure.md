@@ -1,5 +1,5 @@
 
-# Estrutura do projeto [![licence mit](https://img.shields.io/badge/licence-MIT-blue.svg)](./LICENSE)
+# Estrutura do projeto ![licence mit](https://img.shields.io/badge/licence-MIT-blue.svg)
 
 Essa documentação tem o objetivo de registrar:
 
