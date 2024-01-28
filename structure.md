@@ -33,6 +33,8 @@ Entre no diretório do projeto
 
 ## Acessando o render 
 
+https://springmvc-rehab.onrender.com/login
+
 * Entrar como usuário: <br>
 **Login: user** <br>
 **senha: password** <br>
