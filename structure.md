@@ -31,6 +31,16 @@ Entre no diretório do projeto
   cd my-project
 ```
 
+## Acessando o render 
+
+* Entrar como usuário: <br>
+**Login: user** <br>
+**senha: password** <br>
+
+* Entrar como administrador: <br>
+**Login: admin** <br>
+**senha: password**
+
 ## Arquivos
 
 * `./Models `
